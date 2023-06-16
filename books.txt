@@ -1,0 +1,29 @@
+9780441172719,0441172717,William Gibson,Science Fiction,Penguin,1984,Hardcover,Neuromancer
+9780060850524,0060850523,Paulo Coelho,Fiction,HarperCollins,1988,Paper,The Alchemist
+9780345370771,0345370775,George R. R. Martin,Fantasy,Spectra,1996,Paper,A Game of Thrones
+9780747532743,0747532745,J. K. Rowling,Fiction,Bloomsbury,1997,Paper,Harry Potter and the Philosopher's Stone
+9780553103540,0553103547,Isaac Asimov,Science Fiction,Bantam Spectra,1951,Hardcover,I Robot
+9781400033423,1400033422,Khaled Hosseini,Fiction,Riverhead,2003,Paper,The Kite Runner
+9780545010221,0545010225,Stephenie Meyer,Fiction,Little Brown and Company,2008,Paper,Twilight
+9780679783275,0679783272,Augusten Burroughs,Non-fiction,St. Martin's Press,2002,Paper,Running with Scissors
+9780446611918,0446611916,David Baldacci,Thriller,Warner Books,1996,Paper,Absolute Power
+9780140280197,0140280198,Yann Martel,Fiction,Harvest Books,2001,Paper,Life of Pi
+9780590353427,0590353422,J. K. Rowling,Children's Literature,Scholastic,1999,Paper,Harry Potter and the Prisoner of Azkaban
+9780061097317,0061097314,Michael Crichton,Science Fiction,HarperCollins,1990,Paper,Jurassic Park
+9780316769174,0316769177,Don DeLillo,Fiction,Picador,1997,Paper,Underworld
+9780060935467,0060935464,Barbara Kingsolver,Fiction,HarperCollins,1998,Paper,The Poisonwood Bible
+9780553382563,0553382564,Kurt Vonnegut,Fiction,Delta,1969,Paper,Slaughterhouse-Five
+9780385545938,0385545932,Tara Westover, Memoir, Random House,2018, Hardcover,Educated
+9780525534969,0525534962,Chanel Miller, Memoir, Viking,2019, Hardcover,Know My Name
+9780525536659,0525536652,Delia Owens, Fiction, G.P. Putnam's Sons,2018, Hardcover,Where the Crawdads Sing
+9781501180989,1501180983,Michelle Obama, Memoir, Crown,2018, Hardcover,Becoming
+9781476764665,1476764662,Jeanine Pirro, Political Thriller, Center Street,2018, Hardcover,Liars Leakers and Liberals
+9780525535270,0525535273,Ta-Nehisi Coates, Memoir, One World,2019, Hardcover,The Water Dancer
+9781524763138,1524763136,Mary Trump, Memoir, Simon & Schuster,2020, Hardcover,Too Much and Never Enough
+9780385544184,0385544189,John Grisham, Legal Thriller, Doubleday,2019, Hardcover,The Guardians
+9780525541585,0525541583,Bob Iger, Memoir, Random House,2019, Hardcover,The Ride of a Lifetime
+9780593139134,0593139135,Margaret Atwood, Fiction, Nan A. Talese,2019, Hardcover,The Testaments
+9780525657680,0525657687,Philip Pullman, Fantasy, Knopf Books for Young Readers,2019, Hardcover,The Secret Commonwealth
+9781501180811,1501180819,Jenny Slate, Memoir, Brown and Company,2019,Hardcover,Little Weirds
+9781250314203,1250314202,Kristen Roupenian, Fiction, Gallery/Scout Press,2019, Hardcover,You Know You Want This
+1234567891092,1234567891,Glenn Wallace,Python,My Computer,2042,Kindle,Awesome Book
